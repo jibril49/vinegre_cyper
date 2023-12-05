@@ -1,8 +1,6 @@
 # vinegre_cyper
 vinegere cyper with plain text, key , encrpyt and decrypt
 
-Berikut adalah penjelasan kode C++ Vigenère cipher dengan menggunakan bahasa Indonesia:
-
 ### Fungsi `encryptVigenere`:
 
 ```cpp
